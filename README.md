@@ -7,3 +7,5 @@ Credit
 - [whatsdev / Developer Tenzin](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)
 - [Google Fonts](https://fonts.google.com/)
 - [Microsoft Visual Studio](https://code.visualstudio.com/)
+
+[Demo](https://muhammadbhaska.github.io/batuguntingkertas-js/)
